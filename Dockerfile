@@ -1,2 +1,2 @@
-FROM http
-COPY . /usr/share/nginx/previsaodechuva.html
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
