@@ -1,8 +1,8 @@
 # Desafio FieldPRO
 Nesse repositório estão:
-- Os dois arquivos csv fornecidos no desafio, Sensor_FieldPRO e Estacao_Convencional;
-- O notebook Jupyter com o códido comentado de resolução do desafio e
-- O html do resultado da previsão da chuva.
+- Os dois arquivos csv fornecidos no desafio, Sensor_FieldPRO.csv e Estacao_Convencional.csv;
+- O notebook Jupyter com o códido comentado de resolução do desafio, desafio_fieldPRO.ipynb, e
+- O html do resultado da previsão da chuva, previsaodechuva.html.
 
 O html também está em um bucket do S3 com acesso público, e pode ser acessado pela url abaixo:
 https://luiskalildesafiofieldpro.s3.us-east-2.amazonaws.com/previsaodechuva.html
