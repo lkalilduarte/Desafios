@@ -8,15 +8,15 @@ O html também está em um bucket do S3 com acesso público, e pode ser acessado
 https://luiskalildesafiofieldpro.s3.us-east-2.amazonaws.com/previsaodechuva.html
 
 O código está estruturado da seguinte forma:
-1- Análise e ajustes dos dados do csv Sensor_FieldPRO
-2- Análise e ajustes dos dados do csv Estacao_Convencional
-3- Análise da intersecção dos dados dos dois csvs
-4- Merge dos dois csvs nos datetimes de intersecção
-5- Aplicação da Regressão Linear em diferentes combinações de dados para identificar o melhor modelo preditivo
-6- Comparação dos resultados das regressões lineares e definição do melhor modelo
-7- Aplicação do melhor modelo para obter a predição das chuvas
-8- Criar uma tabela com as datas, horários e chuvas previstas
-9- Transformar essa tabela em html para que seja possível visualizar fora do código
+1) Análise e ajustes dos dados do csv Sensor_FieldPRO
+2) Análise e ajustes dos dados do csv Estacao_Convencional
+3) Análise da intersecção dos dados dos dois csvs
+4) Merge dos dois csvs nos datetimes de intersecção
+5) Aplicação da Regressão Linear em diferentes combinações de dados para identificar o melhor modelo preditivo
+6) Comparação dos resultados das regressões lineares e definição do melhor modelo
+7) Aplicação do melhor modelo para obter a predição das chuvas
+8) Criar uma tabela com as datas, horários e chuvas previstas
+9) Transformar essa tabela em html para que seja possível visualizar fora do código
 
 Sobre o código:
 Optei por usar a Regressão Linear por ser uma boa opção para aplicação em modelos preditivos.
