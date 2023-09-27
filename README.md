@@ -1,4 +1,4 @@
-# Desafios
+# Desafio FieldPRO
 Nesse repositório estão:
 - Os dois arquivos csv fornecidos no desafio, Sensor_FieldPRO e Estacao_Convencional;
 - O notebook Jupyter com o códido comentado de resolução do desafio e
